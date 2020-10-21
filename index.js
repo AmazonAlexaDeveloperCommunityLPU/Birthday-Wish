@@ -1,7 +1,6 @@
 const Alexa = require('ask-sdk-core');
 const GREET_LST = [' tell me the name of person who is going to cut the cake',
     ' tell me the name whose birthday we are celebrating',
-    'tell me the name who is going to get the birthday bumps',
     'Name the person who is going to be beaten up'
 ];
 const WISH_LST = [' wish you a very happy many returns of the day',
